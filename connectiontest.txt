@@ -1,0 +1,1 @@
+If the patcher can read this, the connection test succeeds.
